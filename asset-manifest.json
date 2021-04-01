@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a1081557.chunk.css",
+    "main.js": "./static/js/main.92464901.chunk.js",
+    "main.js.map": "./static/js/main.92464901.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.537d6b49.js",
+    "runtime-main.js.map": "./static/js/runtime-main.537d6b49.js.map",
+    "static/css/2.5c1ee032.chunk.css": "./static/css/2.5c1ee032.chunk.css",
+    "static/js/2.38513d6c.chunk.js": "./static/js/2.38513d6c.chunk.js",
+    "static/js/2.38513d6c.chunk.js.map": "./static/js/2.38513d6c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.8728f9cb4b9b7aad7c49b1458225da9b.js": "./precache-manifest.8728f9cb4b9b7aad7c49b1458225da9b.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.5c1ee032.chunk.css.map": "./static/css/2.5c1ee032.chunk.css.map",
+    "static/css/main.a1081557.chunk.css.map": "./static/css/main.a1081557.chunk.css.map",
+    "static/js/2.38513d6c.chunk.js.LICENSE.txt": "./static/js/2.38513d6c.chunk.js.LICENSE.txt",
+    "static/media/Netease1.png": "./static/media/Netease1.ce326219.png",
+    "static/media/Netease2.png": "./static/media/Netease2.82f180a9.png",
+    "static/media/Netease3.png": "./static/media/Netease3.926460e9.png",
+    "static/media/Netease4.png": "./static/media/Netease4.faf451bb.png",
+    "static/media/NeteaseCloudMusic.png": "./static/media/NeteaseCloudMusic.58e7909a.png",
+    "static/media/QRCode.png": "./static/media/QRCode.905774cd.png",
+    "static/media/canvas.png": "./static/media/canvas.3bac1917.png",
+    "static/media/canvas1.png": "./static/media/canvas1.3bac1917.png",
+    "static/media/certificatePhoto.jpg": "./static/media/certificatePhoto.9d114e71.jpg",
+    "static/media/font-awesome.css": "./static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/mora.png": "./static/media/mora.0e1022f7.png",
+    "static/media/mora1.png": "./static/media/mora1.0e1022f7.png",
+    "static/media/vidly.png": "./static/media/vidly.2d9c4b5d.png",
+    "static/media/vidly1.png": "./static/media/vidly1.51b0e977.png",
+    "static/media/vidly2.png": "./static/media/vidly2.17aee427.png",
+    "static/media/vidly3.png": "./static/media/vidly3.99a01c3b.png",
+    "static/media/vidly4.png": "./static/media/vidly4.2d3276f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.537d6b49.js",
+    "static/css/2.5c1ee032.chunk.css",
+    "static/js/2.38513d6c.chunk.js",
+    "static/css/main.a1081557.chunk.css",
+    "static/js/main.92464901.chunk.js"
+  ]
+}
